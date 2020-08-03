@@ -19,12 +19,12 @@ So that I can organize and plan my business
 * [Questions](#questions)
 
 ### Installation:
-Run npm install in terminal. Once set up, use "npm start to run the application. The user will be presented with a variety of options that will allow them to set up multiple departments, roles, and employees. All the user has to do is follow the inquirer promps.
+Run npm install in terminal. Once set up, use "npm start" to run the application.
 
 ### Usage:
 You will be presented with a variety of options to set up multiple departments, roles, and employees. Just follow the prompts.
 
-![Video Example](https://drive.google.com/file/d/1cCgqKkuyHPwo3xdNGRwcxD55GaEfI2CJ/view)
+[Video Example](https://drive.google.com/file/d/1cCgqKkuyHPwo3xdNGRwcxD55GaEfI2CJ/view)
 
 ### License:
 None 
